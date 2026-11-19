@@ -9,7 +9,7 @@ Aplicación orientada a objetos desarrollada en Python enfocada en garantizar la
 
 ## Integrantes del Grupo
 * [Nombre Completo 1] - `@frandidy`
-* [Nombre Completo 2] - `@usuarioGitHub2`
+* [Nombre Completo 2] - `@joseandresx01`
 * [Nombre Completo 3] - `@usuarioGitHub3`
 * [Nombre Completo 4] - `@usuarioGitHub4`
 * [Nombre Completo 5] - `@usuarioGitHub5`
