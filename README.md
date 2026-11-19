@@ -2,14 +2,14 @@
 
 **Universidad Nacional Abierta y a Distancia (UNAD)**  
 **Curso:** Programación (213023)  
-**Grupo:** [Número de grupo]
+**Grupo:** 213023_79
 
 ## Descripción del Proyecto
 Aplicación orientada a objetos desarrollada en Python enfocada en garantizar la estabilidad y robustez mediante el manejo estructurado de excepciones y validaciones.
 
 ## Integrantes del Grupo
-* [Nombre Completo 1] - `@frandidy`
-* [Nombre Completo 2] - `@joseandresx01`
+* Frandidy Pena Jimenez. - `@frandidy`
+* Jose Andres Rodriguez Jimenez. - `@joseandresx01`
 * [Nombre Completo 3] - `@usuarioGitHub3`
 * [Nombre Completo 4] - `@usuarioGitHub4`
 * [Nombre Completo 5] - `@usuarioGitHub5`
