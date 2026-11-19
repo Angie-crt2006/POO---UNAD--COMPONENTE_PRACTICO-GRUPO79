@@ -226,6 +226,7 @@ def ejecutar_simulacion() -> None:
 
 
 # Punto de entrada estándar cuando se ejecuta el script directamente
+# Inicio de la ejecución principal del proyecto.
 if __name__ == "__main__":
     # Llama a la función principal de simulación
     ejecutar_simulacion()
