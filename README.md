@@ -10,7 +10,7 @@ Aplicación orientada a objetos desarrollada en Python enfocada en garantizar la
 ## Integrantes del Grupo
 * Frandidy Pena Jimenez. - `@frandidy`
 * Jose Andres Rodriguez Jimenez. - `@joseandresx01`
-* [Nombre Completo 3] - `@usuarioGitHub3`
+* Anyeline Cristina Rodriguez Alvernia - `@Angie-crt2006`
 * [Nombre Completo 4] - `@usuarioGitHub4`
 * [Nombre Completo 5] - `@usuarioGitHub5`
 
